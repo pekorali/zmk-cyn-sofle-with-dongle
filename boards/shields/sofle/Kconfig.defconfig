@@ -42,8 +42,5 @@ config ZMK_BLE
 config ZMK_SPLIT
     default y
 
-config ZMK_SLEEP
-    default n
-
 endif ## SHIELD_SOFLE_DONGLE || SHIELD_SOFLE_LEFT || SHIELD_SOFLE_RIGHT
 ## -----------------------------------------------------------------
