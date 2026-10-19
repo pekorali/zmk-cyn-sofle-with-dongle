@@ -77,6 +77,5 @@
         compatible = "zmk,soft-off-wakeup-sources";
         wakeup-sources = <&kscan0>;
     };
-};
 
 };
